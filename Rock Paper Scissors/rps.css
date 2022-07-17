@@ -1,0 +1,68 @@
+*{
+    text-align: center;
+   } 
+    body{
+        color: white;
+        font-family: cursive;
+        
+    }
+    div{
+   background-color:blue;
+   width: 250px;
+   margin:0 auto;
+   margin-top: 50px;
+   height: 200px;
+   padding: 20px;
+   
+   } 
+   section{
+    display: inline;
+   }
+   #player1{
+    float: left;
+    
+    }
+   #player2{
+    float: right;
+    margin-top: -10px;
+   }
+   button{
+    display: block;
+    margin: 0 auto;
+    color:blue;
+    border: blue 1px solid;
+    width: 100px;
+    height: 40px;
+    font-size: x-large;
+    background-color: white;
+    border-radius: 4px;
+   }
+   button:active{
+    background-color: blue;
+    color:white;
+    border: blue 1px solid;
+    transition: 0.5s;
+   }
+   #result{
+    text-align: center;
+   }
+   img{
+    width:75px;
+   }
+   p{
+       font-size:20px;
+   }
+   u{
+       color:blue;
+       font-size:40px;
+       display:block;
+       margin:0 auto;
+   }
+   .players{
+       color:blue;
+       font-size:25px;
+   }
+   h2{
+    color: blue;
+   }
+ 
